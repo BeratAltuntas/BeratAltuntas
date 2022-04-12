@@ -9,11 +9,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/cberataltuntas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="cberataltuntas" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/celalettin-berat-altuntas/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="celalettin-berat-altuntas/" height="30" width="40" /></a>
-  <a href="https://medium.com/@CBeratAltuntas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="CBeratAltuntas" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/cberataltuntas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="cberataltuntas" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/11541921/berat-altuntaş" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="11541921" height="30" width="40" /></a>
+<a href="https://twitter.com/cberataltuntas" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="cberataltuntas" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/celalettin-berat-altuntas/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="celalettin-berat-altuntas/" height="30" width="40" /></a>
+  <a href="https://medium.com/@CBeratAltuntas" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="CBeratAltuntas" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/cberataltuntas" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="cberataltuntas" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/11541921/berat-altuntaş" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="11541921" height="30" width="40" /></a>
 
   
 </p>
